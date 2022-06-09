@@ -1,0 +1,16 @@
+<template>
+  <svg class="bi" :width="fontsize" :height="fontsize" fill="currentColor">
+    <use xlink:href="../assets/bootstrap-icons.svg#folder-symlink"/>
+  </svg>
+</template>
+
+<script>
+export default {
+  props: {
+    fontsize: {
+      type: Number,
+      default: () => 32,
+    }
+  },
+}
+</script>
