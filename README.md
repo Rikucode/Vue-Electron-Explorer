@@ -1,7 +1,7 @@
 # Vue-Electron-Explorer
 A simple explorer based on vue.js and electron
 
-#Getting started
+# Getting started
 Firstly, make sure your node.js is installed:
 ```
 node -v
